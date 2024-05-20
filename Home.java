@@ -21,7 +21,7 @@ public class Home  extends Frame
     Button b6 = new Button("Exit");
     TextField tf1 = new TextField();
     
-    Home()
+    Home() 
     {
         setTitle("Library Management System");
         setLocationRelativeTo(null);
